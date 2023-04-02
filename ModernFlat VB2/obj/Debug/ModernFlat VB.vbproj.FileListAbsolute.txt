@@ -1,0 +1,12 @@
+C:\Users\Brayan JC\source\repos\ModernFlat VB\bin\Debug\ModernFlat VB.exe.config
+C:\Users\Brayan JC\source\repos\ModernFlat VB\bin\Debug\ModernFlat VB.exe
+C:\Users\Brayan JC\source\repos\ModernFlat VB\bin\Debug\ModernFlat VB.pdb
+C:\Users\Brayan JC\source\repos\ModernFlat VB\bin\Debug\ModernFlat VB.xml
+C:\Users\Brayan JC\source\repos\ModernFlat VB\obj\Debug\ModernFlat VB.vbprojAssemblyReference.cache
+C:\Users\Brayan JC\source\repos\ModernFlat VB\obj\Debug\ModernFlat_VB.Frontal.resources
+C:\Users\Brayan JC\source\repos\ModernFlat VB\obj\Debug\ModernFlat_VB.Resources.resources
+C:\Users\Brayan JC\source\repos\ModernFlat VB\obj\Debug\ModernFlat VB.vbproj.GenerateResource.cache
+C:\Users\Brayan JC\source\repos\ModernFlat VB\obj\Debug\ModernFlat VB.vbproj.CoreCompileInputs.cache
+C:\Users\Brayan JC\source\repos\ModernFlat VB\obj\Debug\ModernFlat VB.exe
+C:\Users\Brayan JC\source\repos\ModernFlat VB\obj\Debug\ModernFlat VB.xml
+C:\Users\Brayan JC\source\repos\ModernFlat VB\obj\Debug\ModernFlat VB.pdb
